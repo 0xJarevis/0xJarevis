@@ -3,6 +3,11 @@
 
 _Don't forgot follow me and star my repositories. ⭐_
 
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=0xJarevis&theme=radical" height="170" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=0xJarevis&layout=donut&theme=radical" height="170" />
+</p>
+
 ### 🛠 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,ts,python,go,react,nodejs,django,docker,postgresql)](https://skillicons.dev)
 
