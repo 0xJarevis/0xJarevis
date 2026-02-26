@@ -1,8 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=52&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=J.A.R.E.V.I.S;CONNECTION;CREATIVITY+;PASSIONATE)](https://git.io/typing-svg)
 
 
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=0xJarevis&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=0xJarevis&layout=donut&theme=radical)](https://github.com/Pranesh-2005/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=0xJarevis&theme=radical" height="170" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=0xJarevis&layout=donut&theme=radical" height="170" />
+</p>
 
 
 ### 🛠 Tech Stack
