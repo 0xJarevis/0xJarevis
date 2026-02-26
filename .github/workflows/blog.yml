@@ -14,3 +14,4 @@ jobs:
         with:
           COMMIT_MSG: "Update recent activity"
           MAX_LINES: 5
+          CUSTOM_TAG: "LIST_SECTION"
